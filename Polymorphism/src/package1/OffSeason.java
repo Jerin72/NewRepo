@@ -6,6 +6,7 @@ public class OffSeason extends OnSeason {
 	{
 		discount = price *.15;
 		System.out.println("Offseason Discount is "+discount);
+		System.out.println("Hi ");
 	}
 
 	public static void main(String[] args) {
